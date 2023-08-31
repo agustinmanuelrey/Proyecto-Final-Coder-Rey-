@@ -1,7 +1,7 @@
 /* Footer */
 
 footer{
-    background: $color-primario;
+    background: rgb(35, 35, 85);
     padding-bottom: 0.1px;
 }
 
@@ -18,7 +18,7 @@ footer{
 
 .contact-us{
     width: 30%;
-    color: $color-texto;
+    color: #fff;
 }
 
 .brand{
@@ -43,15 +43,15 @@ footer{
     margin-left: 20px;
     width: 60px;
     height: 60px;
-    border: 1px solid $color-texto;
+    border: 1px solid #fff;
     border-radius: 50%;
     text-align: center;
-    color: $color-texto;
+    color: #fff;
 }
 
 .social-media-icon:hover{
-    background: $color-texto;
-    color: $color-primario;
+    background: #fff;
+    color: rgb(35, 35, 85);
 }
 
 .social-media-icon i{
@@ -64,7 +64,7 @@ footer{
     max-width: 1200px;
     margin: 0 auto;
     height: 2px;
-    background: $color-texto;
+    background: #fff;
     margin-bottom: 60px;
 }
 
@@ -76,6 +76,6 @@ footer{
     font-size: 0.9rem;
     letter-spacing: 0.7px;
     padding-bottom: 5px;
-    color: $color-texto;
+    color: #fff;
     font-weight: 200;
 }
